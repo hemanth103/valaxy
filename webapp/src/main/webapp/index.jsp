@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1 style="background-color:powderblue;">KOKO-ZUZU Register for DevOps Learning</h1>
+    <h1 style="background-color:powderblue;">PAPA Register for DevOps Learning</h1>
     <p style="background-color:tomato;">Please fill in this form to create an account.</p>
     <hr>
      
