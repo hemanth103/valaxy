@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1 style="background-color:rgb(185, 176, 230);">Mumy Register for DevOps Learning</h1>
-    <p style="background-color:tomato;">Please fill in this form to create an account.</p>
+    <p style="background-color:green;">Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
